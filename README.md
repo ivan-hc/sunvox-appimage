@@ -1,6 +1,8 @@
 # sunvox-appimage
 Unofficial. Small, fast and powerful modular synthesizer with pattern-based sequencer (tracker).
 
+This AppImage is an [Archimage](https://github.com/ivan-hc/ArchImage) (Arch Linux container into an AppImage), built on top of the sunvox AUR package.
+
 ------------------------------------------------------------------------
 
 ## Install and update it with ease
